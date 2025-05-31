@@ -62,9 +62,6 @@ A full-stack mobile application built to streamline daily dairy operations such 
 
 ---
 
-## 📷 Screenshots (Optional)
-
-_Add app screenshots here if available._
 
 ---
 
